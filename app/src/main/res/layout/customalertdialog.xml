@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="6dp"
+    app:cardCornerRadius="10dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/btndialog"
+          android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#938787">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Notification"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:textSize="25dp"
+                android:layout_marginLeft="120dp"
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            >
+
+           <Button
+               android:layout_width="150dp"
+               android:layout_height="wrap_content"
+               android:id="@+id/from"
+               android:background="@drawable/btndialog"
+               android:layout_margin="15dp"
+               android:text="From"/>
+            <Button
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/to"
+                android:background="@drawable/btndialog"
+
+                android:layout_margin="15dp"
+                android:text="To"/>
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/time"
+            android:layout_marginBottom="20dp"
+           android:layout_marginLeft="100dp"
+            android:background="@drawable/btndialog"
+            android:text="Time"/>
+            <Button
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/saveb"
+                android:layout_marginBottom="20dp"
+                android:layout_marginLeft="130dp"
+                android:background="@drawable/btndialog"
+                android:text="Save"/>
+        </LinearLayout>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

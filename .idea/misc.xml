@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/EGC/AndroidStudioProjects/MyApplication9/app/src/main/res/drawable-v24/shape.xml" value="0.146" />
+        <entry key="..\:/Users/EGC/AndroidStudioProjects/MyApplication9/app/src/main/res/drawable-v24/shapecard.xml" value="0.146" />
+        <entry key="..\:/Users/EGC/AndroidStudioProjects/MyApplication9/app/src/main/res/drawable/btndialog.xml" value="0.1" />
+        <entry key="..\:/Users/EGC/AndroidStudioProjects/MyApplication9/app/src/main/res/drawable/searshape.xml" value="0.1" />
+        <entry key="..\:/Users/EGC/AndroidStudioProjects/MyApplication9/app/src/main/res/drawable/shapcard.xml" value="0.1" />
+        <entry key="..\:/Users/EGC/AndroidStudioProjects/MyApplication9/app/src/main/res/drawable/shape.xml" value="0.146" />
+        <entry key="..\:/Users/EGC/AndroidStudioProjects/MyApplication9/app/src/main/res/drawable/shapecard.xml" value="0.1" />
+        <entry key="..\:/Users/EGC/AndroidStudioProjects/MyApplication9/app/src/main/res/layout/activity_gps.xml" value="0.1" />
+        <entry key="..\:/Users/EGC/AndroidStudioProjects/MyApplication9/app/src/main/res/layout/activity_gpsmap.xml" value="0.1" />
+        <entry key="..\:/Users/EGC/AndroidStudioProjects/MyApplication9/app/src/main/res/layout/activity_locweather.xml" value="0.1" />
+        <entry key="..\:/Users/EGC/AndroidStudioProjects/MyApplication9/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/EGC/AndroidStudioProjects/MyApplication9/app/src/main/res/layout/activity_map.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/EGC/AndroidStudioProjects/MyApplication9/app/src/main/res/layout/activity_search.xml" value="0.22" />
+        <entry key="..\:/Users/EGC/AndroidStudioProjects/MyApplication9/app/src/main/res/layout/activity_setting.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/EGC/AndroidStudioProjects/MyApplication9/app/src/main/res/layout/activity_splashsreen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/EGC/AndroidStudioProjects/MyApplication9/app/src/main/res/layout/activity_weathergps.xml" value="0.1" />
+        <entry key="..\:/Users/EGC/AndroidStudioProjects/MyApplication9/app/src/main/res/layout/cardview.xml" value="0.11141304347826086" />
+        <entry key="..\:/Users/EGC/AndroidStudioProjects/MyApplication9/app/src/main/res/layout/customalertdialog.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/EGC/AndroidStudioProjects/MyApplication9/app/src/main/res/layout/nav_header.xml" value="0.25" />
+        <entry key="..\:/Users/EGC/AndroidStudioProjects/MyApplication9/app/src/main/res/menu/menu_nav.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

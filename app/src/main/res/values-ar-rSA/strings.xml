@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">برنامج</string>
+    <string name="channel_name">com.example.myapplication</string>
+    <string name="channel_description">androidnotification</string>
+    <string name="open">مفتوح</string>
+    <string name="close">مغلق</string>
+    <string name="language">اللغات</string>
+    <string name="notification">الاشعارات</string>
+    <string name="weather">الطقس</string>
+    <string name="location">الموقع</string>
+    <string name="wind">الرياح</string>
+    <string name="temp">درجه الحراره</string>
+    <string name="translation">الترجمه</string>
+    <string name="cityname">اسم المدينه</string>
+    <string name="pressure">الضغط</string>
+</resources>
