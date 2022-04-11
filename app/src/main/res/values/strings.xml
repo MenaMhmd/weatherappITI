@@ -3,14 +3,26 @@
     <string name="channel_name">com.example.myapplication</string>
     <string name="channel_description">androidnotification</string>
     <string name="open">Open</string>
-    <string name="language">Language</string>
-    <string name="notification">Notification</string>
+    <string name="LANGUAGE">LANGUAGE</string>
+    <string name="NOTIFICATION">NOTIFICATION</string>
+
     <string name="weather">weather</string>
-    <string name="location">Location</string>
+    <string name="LOCATION">LOCATION</string>
+    <string name="BUTTON">BUTTON</string>
+    <string name="Sunrise">Sunrise</string>
+    <string name="Search">Search</string>
+    <string name="search">search</string>
+    <string name="Setting" >Setting</string>
+    <string name="Favourite">Favourite</string>
+    <string name="Home">Home</string>
+    <string name="Humidity">Humidity</string>
     <string name="wind">Wind</string>
     <string name="temp">temperature</string>
     <string name="translation">Translation</string>
     <string name="close">close</string>
     <string name="cityname">cityname</string>
-    <string name="pressure">pressure</string>
+    <string name="Pressure">Pressure</string>
+    <string name="notification">notification</string>
+    <string name="language">language</string>
+    <string name="location">location</string>
 </resources>

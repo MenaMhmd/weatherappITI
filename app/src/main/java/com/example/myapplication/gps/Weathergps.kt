@@ -80,15 +80,7 @@ class weathergps : AppCompatActivity() {
                 findViewById<TextView>(R.id.tempm).text = temp
                 findViewById<TextView>(R.id.temp_minm).text = tempMin
                 findViewById<TextView>(R.id.temp_maxm).text = tempMax
-                findViewById<TextView>(R.id.sunrisem).text = SimpleDateFormat("hh:mm a", Locale.ENGLISH).format(
-                    Date(sunrise*1000)
-                )
-                findViewById<TextView>(R.id.sunsetm).text = SimpleDateFormat("hh:mm a", Locale.ENGLISH).format(
-                    Date(sunset*1000)
-                )
-                findViewById<TextView>(R.id.windm).text = windSpeed
-                findViewById<TextView>(R.id.pressurem).text = pressure
-                findViewById<TextView>(R.id.humiditym).text = humidity
+
 
                 /* Views populated, Hiding the loader, Showing the main design */
                 findViewById<ProgressBar>(R.id.loaderm).visibility = View.GONE
